@@ -1,8 +1,6 @@
 /*
 Hanif Lumsden
 Oracle SQL DML Script
-DBST 651
-Dr. Starcher
 08/10/2021
 */
 
